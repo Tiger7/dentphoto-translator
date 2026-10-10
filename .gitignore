@@ -1,0 +1,17 @@
+# 파이썬 캐시 파일
+__pycache__/
+*.py[cod]
+
+# 가상환경
+dentphoto_env/
+venv/
+env/
+
+# 프로젝트에서 생성되는 데이터 및 임시 폴더 (보안/용량 방지)
+checkpoints/
+outputs/
+gradio_temp/
+
+# OS 자동 생성 파일
+.DS_Store
+Thumbs.db
